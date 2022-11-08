@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route  } from "react-router-dom";
 import NavBar from './components/NavBar/NavBar';
 import StartPage from './pages/StartPage';
-import AboutPage from './pages/AboutPage';
+import AboutPage from './pages/About/AboutPage';
 import NotFoundPage from './pages/NotFoundPage/NotFoundPage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
