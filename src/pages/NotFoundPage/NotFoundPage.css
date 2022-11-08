@@ -2,9 +2,12 @@
 .noPage{
     margin-top: 50px;
     margin-left: 200px;
+    height: 450px;
+
   }
 
   p{
     font-size: 34px;
     text-align: center;
+    margin: 0px;
   }

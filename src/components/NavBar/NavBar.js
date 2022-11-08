@@ -1,15 +1,13 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import './NavBar.css';
+import logo from '../../img/LogoDbz.png';
 
 function NavBar() {
-
-  //const menus = [];
-
   return (
     <>
      <nav className='encabezado-inicio'>
-          <img src="/LogoDBZ.png" alt="no logo" className='encabezadologo'></img> 
+          <img src={logo} alt="no logo" className='encabezadologo'></img> 
         <div className='menu'>
         <ul>
             <Link className="menuitem" to="/">
