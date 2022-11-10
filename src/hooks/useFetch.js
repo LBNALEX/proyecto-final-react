@@ -25,9 +25,10 @@ export const useFetch = () => {
             }
            
             const data = await res.json();
-            console.log(data);
-           // console.log([...data.results]);
             setCharacters([...data]);
+
+            console.log(data);
+
         } catch (error) {
             console.log(error);
             return Swal.fire({

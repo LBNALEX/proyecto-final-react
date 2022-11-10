@@ -1,3 +1,16 @@
-.contenidoPrincipal{
-    margin-left: 110px;
+.espaciadoarriba{
+    margin-top: 20px;
+
 }
+span{
+    color: black;
+}
+
+.MuiCardMedia-img{
+    object-fit: contain;
+}
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+  }
