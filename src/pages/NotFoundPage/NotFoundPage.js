@@ -1,9 +1,9 @@
 import './NotFoundPage.css';
-import notFound from '../../img/NotFound.png';
+import notFound from '../../img/NotFound2.png';
 function NotFoundPage() {
     return(
         <>
-            <div >
+            <div className='fondobody'>
                 <div >
                     <img src={notFound} alt="Error - Página no encontrada" className="noPage"/>
                 </div>

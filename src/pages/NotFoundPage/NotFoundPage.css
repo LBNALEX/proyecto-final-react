@@ -1,8 +1,11 @@
 /*NOT FOUND PAGE*/
+.fondobody{
+  background-color: white;
+}
 .noPage{
-    margin-top: 0px;
-    margin-left: 200px;
-    height: 450px;
+    margin-top: 1px;
+    margin-left: 450px;
+    height: 490px;
 
   }
 

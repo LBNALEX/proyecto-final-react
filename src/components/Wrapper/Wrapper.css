@@ -1,6 +1,5 @@
-.espaciadoarriba{
+.espaciado{
     margin-top: 20px;
-
 }
 span{
     color: black;
@@ -13,4 +12,9 @@ span{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     justify-items: center;
+  }
+
+  .parrafo{
+    font-size: 14px;
+    text-align: justify;
   }

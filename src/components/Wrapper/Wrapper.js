@@ -6,6 +6,8 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
 import backImage from '../../img/fondotorneo.jpg';
+import Button from '@mui/material/Button';
+import Stack from '@mui/material/Stack';
 
 const estilo = {
     objectFit: "contain",
@@ -16,12 +18,12 @@ const Wrapper = (props) => {
     const items = props.items.map((item, index) => {
         return (
 
-            <Card sx={{ maxWidth: 300 }} className="espaciadoarriba" key={item.id}>
+            <Card sx={{ maxWidth: 300 }} className="espaciado" key={item.id}>
                 <CardActionArea>
                     <CardMedia
                         component="img"
                         height="350"
-                        image={item.imageUrl}
+                        image={item.avatar}
                         alt={item.name}
                         style={estilo}
                     />
@@ -29,10 +31,9 @@ const Wrapper = (props) => {
                         <Typography gutterBottom variant="h5" component="div">
                             {item.name}
                         </Typography>
-                        <Typography variant="body2" color="text.secondary" textAlign="left">
-                            <h3><span>Especie:</span>{item.specie}</h3>
-                            <h3><span>Rol: </span>{item.role}</h3>
-                        </Typography>
+                        
+                            <p className="parrafo">{item.description}</p>
+      
                     </CardContent>
                 </CardActionArea>
             </Card>
@@ -41,11 +42,13 @@ const Wrapper = (props) => {
 
     return (
         <>
-            <button onClick={props.prevHandler}>Prev</button>
-            <button onClick={props.nextHandler}>Next</button>
             <div className="cards-container">
                  {items}  
             </div>
+            <Stack direction="row" spacing={2} margin="10px" justifyContent="center">
+            <Button variant="contained"  onClick={props.prevHandler}>Prev</Button>
+            <Button variant="contained" onClick={props.nextHandler}>Next</Button>
+            </Stack>
         </>
     )
 }

@@ -4,16 +4,17 @@ import Swal from 'sweetalert2';
 
 export const useFetch = () => {
     const [characters, setCharacters] = useState([]);
-     //const [loading, setLoading] = useState(false);
+    const [loading, setLoading] = useState(false);
 
      useEffect(() => {
        getCharacter();
      }, []);
 
     const getCharacter = async () =>{
-       // setLoading(true)
+        setLoading(true)
         try {
-            const res = await fetch("https://dragon-ball-super-api.herokuapp.com/api/characters");
+            const res = await fetch("http://localhost:4000/characters")
+            //fetch("https://dragon-ball-super-api.herokuapp.com/api/characters");
     
             if (!res.ok) {
                 
@@ -37,9 +38,9 @@ export const useFetch = () => {
                 icon: "error",
             });
         } finally {
-            //setLoading(false)
+            setLoading(false)
         }
     }
     
-    return [characters]
+    return [characters,loading]
 };
