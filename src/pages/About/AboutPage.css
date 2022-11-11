@@ -1,0 +1,66 @@
+.fondo{
+    width: 100%;
+    height: 780px;
+    position: relative;
+    background-image:  url("../../img/fondo.jpg");
+    background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.fondo:before {
+	content:'';
+	position: absolute;
+    top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.6);
+}
+
+.contenido{
+    display: flex;
+    flex-direction: column; 
+    width: 1000px;
+    height: 500px;
+    background-color: rgba(0,0,0,.5);
+    padding-top: 0px;
+    padding-right: 68px;
+    padding-bottom: 40px;
+    padding-left: 68px;
+    margin-bottom: 90px;
+    border-radius: 4px;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+
+.contenedorMangaka{
+    width: 950px;
+    height: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.titulo{
+    color:white;
+    display: block;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+.mangaka{
+    width: 500px;
+    height: 250px;   
+    border-radius: 5%;
+}
+
+.formatoInfo{
+    color: white;
+    font-size: 14px;
+    text-align: left;
+}

@@ -1,0 +1,75 @@
+{"characters":[
+    {
+        "id": 1,
+        "name" : "Goku",
+        "description" : "Goku (孫そん悟ご空くう Son Gokū), born Kakarot (カカロット Kakarotto, is the main protagonist of the Dragon Ball metaseries. Goku is a Saiyan originally sent to Earth as an infant. However, an accident alters his memory, allowing him to grow up to become Earth's greatest defender and the informal leader of the Dragon Team. He constantly strives and trains to be the greatest warrior possible, which has kept the Earth and the universe safe from destruction many times",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2018/06/goku-pngrender-631x1024.png"
+    },
+    {
+        "id": 2,
+        "name" : "Vegeta",
+        "description" : "Vegeta (ベジータ Bejīta), more specifically Vegeta IV (ベジータ四世 Bejīta Yonsei, recognized as Prince Vegeta (ベジータ王子 Bejīta Ōji) is the prince of the fallen Saiyan race and one of the major characters of the Dragon Ball series. ",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2018/06/vegueta-render-super-sayan.png"
+    },
+    {
+        "id": 3,
+        "name" : "Android 17",
+        "description" : "Android 17 (人造人間１７号 Jinzōningen Jū Nana-Gō, Lapis (ラピス Rapisu) when he was an ordinary human,[2] is the twin brother of Android 18 and Dr. Gero's seventeenth android creation, designed to serve Gero's vendetta against Goku. Despite his interests not initially deviating from this expectation, Android 17 takes it upon himself to kill Dr. Gero, who is uncooperative with Android 18's curiosity in activating Android 16 and deemed inferior by 17",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2018/06/17-718x1024.png"
+    },
+    {
+        "id": 4,
+        "name" : "Frieza",
+        "description" : "Frieza (フリーザ Furīza) is the de facto ruler of Universe 7, who controlled his own imperial army and feared for his ruthlessness and power. He is the descendant of Chilled, the second son of King Cold, the younger brother of Cooler, and the father of Kuriza. Frieza is the catalyst antagonist of the entire franchise, as it is his actions that led to Goku arriving on Earth. He has made several comebacks since his fight with Goku on Namek, including multiple invasions of Earth. Recently, he has been chosen to represent Universe 7 as the tenth member of Team Universe 7 for the Tournament of Power as a replacement for Good Buu.",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2018/06/frezzer-golden-722x1024.png"
+    },
+    {
+        "id": 5,
+        "name" : "Gohan",
+        "description" : "Son Gohan (孫そん悟ご飯はん Son Gohan) is the elder son of the series primary protagonist Goku and his wife Chi-Chi, the older brother of Goten, the husband of Videl and father to Pan. He is named after Goku's adoptive grandfather, Gohan. Unlike his father, Gohan lacks a passion for fighting and prefers to do so only when the need to defend his loved ones arises (although he does possess a strong power within him) Nevertheless, Gohan fights alongside the Dragon Team in the defense of Earth for much of his life.",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2021/02/dragon-ball-z-84-579x1024.png"
+    },
+    {
+        "id": 6,
+        "name" : "Pan",
+        "description" : "Pan is a brilliant girl and the first daughter of Gohan and his wife Videl, the younger sister of Tights,[11] and is Goku's first friend.[1][2] She used to be the girlfriend of Yamcha,[12][13] but moved on and, eventually, became the wife of Vegeta, as well as the mother of Trunks and Bulla. While she is unable to physically fight most of the villains in the series, her gadgetry plays a key role in winning several battles as well as the search for the Dragon Balls",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2021/02/dragon-ball-z-12-pan-716x1024.png"
+    },
+    {
+        "id": 7,
+        "name" : "Kid Buu",
+        "description" : "Kid Buu is a merciless sorcerer and feels no remorse for eliminating anyone, even his most loyal followers, considering them fodder for his main plan. He kills those who outlive their usefulness simply to satisfy his sadistic indulgence, showing that he only cares for his own life and no other. Whenever under imminent threat, he is shown fleeing or panicking, revealing the true cowardice and defenselessness beneath his pretentious, self-entitled exterior.",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2021/02/dragon-ball-z-37-422x1024.png"
+    },
+    {
+        "id": 8,
+        "name" : "Android 18",
+        "description" : "Android 18 is a slender, curvy and beautiful woman of above-average height and fair complexion. She has shoulder-length blonde hair, although its specific shade varied between light/golden that parts over her left temple, which she generally keeps tucked behind her ear.",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2021/02/dragon-ball-z-39-489x1024.png"
+    },
+    {
+        "id": 9,
+        "name" : "Piccolo",
+        "description" : "Piccolo Jr. (ピッコロ・ジュニア Pikkoro Junia, lit. \"Piccolo Junior\"), usually just called Piccolo also known as Ma Junior (マジュニア Majunia), is a Namekian and also the final child and reincarnation of King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami. According to Grand Elder Guru, Piccolo, along with Kami and King Piccolo, are part of the Dragon Clan, who were the original creators of the Dragon Balls.",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2021/02/dragon-ball-z-135.png"
+    },
+    {
+        "id": 10,
+        "name" : "Zeno",
+        "description" : "Zeno Sama, usually just called Piccolo also known as Ma Junior (マジュニア Majunia), is a Namekian and also the final child and reincarnation of King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami. According to Grand Elder Guru, Piccolo, along with Kami and King Piccolo, are part of the Dragon Clan, who were the original creators of the Dragon Balls.",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2021/02/dragon-ball-z-78-601x1024.png"
+    },
+    {
+        "id": 11,
+        "name" : "Bills",
+        "description" : "Bills, usually just called Piccolo also known as Ma Junior (マジュニア Majunia), is a Namekian and also the final child and reincarnation of King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami. According to Grand Elder Guru, Piccolo, along with Kami and King Piccolo, are part of the Dragon Clan, who were the original creators of the Dragon Balls.",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2021/02/dragon-ball-z-96-577x1024.png"
+    },
+    {
+        "id": 12,
+        "name" : "Jiren",
+        "description" : "Jiren, usually just called Piccolo also known as Ma Junior (マジュニア Majunia), is a Namekian and also the final child and reincarnation of King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami. According to Grand Elder Guru, Piccolo, along with Kami and King Piccolo, are part of the Dragon Clan, who were the original creators of the Dragon Balls.",
+        "avatar" : "https://www.megaidea.net/wp-content/uploads/2021/02/dragon-ball-z-106-529x1024.png"
+    }
+]
+}

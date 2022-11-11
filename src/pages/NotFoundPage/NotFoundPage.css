@@ -1,0 +1,16 @@
+/*NOT FOUND PAGE*/
+.fondobody{
+  background-color: white;
+}
+.noPage{
+    margin-top: 1px;
+    margin-left: 450px;
+    height: 490px;
+
+  }
+
+  p{
+    font-size: 34px;
+    text-align: center;
+    margin: 0px;
+  }
